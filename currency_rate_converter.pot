@@ -1,0 +1,222 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Currency Rate Converter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-12 19:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: currency_rate_converter"
+
+#: crc-admin-forms.php:152 crc-admin-forms.php:188
+msgid "Action"
+msgstr ""
+
+#: crc-admin-forms.php:88
+msgid "Add Conversion Rates"
+msgstr ""
+
+#: crc-admin-forms.php:52
+msgid "Add Currency"
+msgstr ""
+
+#: crc-admin-forms.php:35
+msgid "Add Custom URL"
+msgstr ""
+
+#: crc-admin-forms.php:104
+msgid "Amount"
+msgstr ""
+
+#: crc-admin-forms.php:66
+msgid "Choose File"
+msgstr ""
+
+#: crc-admin-forms.php:64
+msgid "Choose Logo"
+msgstr ""
+
+#: crc-admin-forms.php:184
+msgid "Coin"
+msgstr ""
+
+#: crc-admin-forms.php:180
+msgid "Converstion Rates"
+msgstr ""
+
+#: crc-admin-forms.php:119
+msgid "Convert Rate"
+msgstr ""
+
+#: crc-admin-forms.php:145
+msgid "Currencies"
+msgstr ""
+
+#: crc-admin.php:239
+msgid "Currency added successfully."
+msgstr ""
+
+#: crc-admin-forms.php:56
+msgid "Currency Name"
+msgstr ""
+
+#: crc-admin.php:454
+msgid "Currency rate added successfully."
+msgstr ""
+
+#. Name of the plugin
+msgid "Currency Rate Converter"
+msgstr ""
+
+#: crc-admin-forms.php:24
+msgid "Currency Rate Exchanger"
+msgstr ""
+
+#: crc-admin.php:532
+msgid "Currency rate Updated successfully."
+msgstr ""
+
+#: crc-admin-forms.php:60
+msgid "Currency Symbol"
+msgstr ""
+
+#: crc-admin.php:341 crc-admin.php:384
+msgid "Currency Updated successfully."
+msgstr ""
+
+#: crc-admin.php:183
+msgid "Custom Link added successfully."
+msgstr ""
+
+#: crc-admin-forms.php:39
+msgid "Custom Url"
+msgstr ""
+
+#: crc-admin-forms.php:29
+msgid "Enable / Disable ShortCode"
+msgstr ""
+
+#: crc-admin.php:271 crc-admin.php:364 crc-admin.php:485 crc-admin.php:563
+msgid "Failed to add currency rate."
+msgstr ""
+
+#: crc-admin.php:186
+msgid "Failed to add Custom Link."
+msgstr ""
+
+#: crc-admin.php:410
+msgid "Failed to update currency rate."
+msgstr ""
+
+#: crc-shortcode.php:146
+msgid "Fees:"
+msgstr ""
+
+#: crc-admin-forms.php:93
+msgid "First Currency"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/Wasif-kn/wordpress-form-submissions"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/company/pixelabs-tech/"
+msgstr ""
+
+#: crc-admin-forms.php:149
+msgid "Logo"
+msgstr ""
+
+#: crc-shortcode.php:101
+msgid "Min:"
+msgstr ""
+
+#: crc-admin-forms.php:130 crc-admin-forms.php:187
+msgid "Minimum Amount"
+msgstr ""
+
+#: crc-admin-forms.php:151
+msgid "Name"
+msgstr ""
+
+#: crc-shortcode.php:160
+msgid "Next"
+msgstr ""
+
+#: crc-admin-forms.php:67
+msgid "No file chosen..."
+msgstr ""
+
+#. Author of the plugin
+msgid "PixelLabs Technologies"
+msgstr ""
+
+#: crc-admin-forms.php:126 crc-admin-forms.php:186
+msgid "Platform Fee"
+msgstr ""
+
+#: crc-admin-forms.php:185
+msgid "Rate per 1"
+msgstr ""
+
+#: crc-shortcode.php:146
+msgid "Rate:"
+msgstr ""
+
+#: crc-shortcode.php:72
+msgid "Receive"
+msgstr ""
+
+#: crc-admin-forms.php:109
+msgid "Second Currency"
+msgstr ""
+
+#: crc-admin-forms.php:95 crc-admin-forms.php:111 crc-shortcode.php:111
+#: crc-shortcode.php:137
+msgid "Select Currency"
+msgstr ""
+
+#: crc-shortcode.php:40
+msgid "Send"
+msgstr ""
+
+#: crc-admin-forms.php:45
+msgid "Set URL"
+msgstr ""
+
+#. Description of the plugin
+msgid "Shows exchange rates of the currency"
+msgstr ""
+
+#: crc-admin-forms.php:76 crc-admin-forms.php:137
+msgid "Submit Data"
+msgstr ""
+
+#: crc-admin-forms.php:150
+msgid "Symbol"
+msgstr ""
+
+#: crc-shortcode.php:170
+msgid "This is your popup content."
+msgstr ""
+
+#: crc-shortcode.php:27
+msgid "Under Maintenance"
+msgstr ""
+
+#: crc-shortcode.php:127
+msgid "You get"
+msgstr ""
+
+#: crc-shortcode.php:100
+msgid "You send"
+msgstr ""
